@@ -149,8 +149,11 @@ Risk Mitigation – Identifies issues early through frequent reviews.
 ❌ Disadvantages:
 
 Scope Creep Risk – Continuous changes may cause uncontrolled expansion.
+
 Requires High Collaboration – Needs active client involvement, which may not always be feasible.
+
 Difficult to Estimate Costs & Time – Since requirements evolve, predicting budget and deadlines is challenging.
+
 Less Emphasis on Documentation – May cause issues in large or long-term projects.
 
 Waterfall Methodology
