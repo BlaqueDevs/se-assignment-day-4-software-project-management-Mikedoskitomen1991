@@ -117,16 +117,21 @@ By implementing these cost-control strategies, software project managers can suc
 Agile and Waterfall are two widely used software development methodologies, each with distinct approaches, advantages, and drawbacks.
 
 **Feature	Agile Methodology // Waterfall Methodology**
+
 Approach:	Iterative & incremental // Linear & sequential.
 
 Project Structure: Flexible, adapts to changes // Rigid, follows a fixed sequence.
 
 Phases:	Multiple short cycles (sprints) // Defined phases (Requirements → Design → Development → Testing → Deployment).
 
-Customer Involvement:	High, with continuous feedback //	Low, mainly at the beginning and end
-Flexibility	Highly adaptable to changes	Difficult to accommodate changes once development starts
-Delivery	Frequent releases in small increments	Delivered as a whole at the end
-Testing	Continuous (during each sprint)	Performed after the development phase
+Customer Involvement:	High, with continuous feedback //	Low, mainly at the beginning and end.
+
+Flexibility:	Highly adaptable to changes // Difficult to accommodate changes once development starts.
+
+Delivery:	Frequent releases in small increments // Delivered as a whole at the end.
+
+Testing:	Continuous (during each sprint) //	Performed after the development phase.
+
 Best Suited For	Dynamic projects with evolving requirements	Well-defined projects with fixed requirements
 Documentation	Lightweight, focuses on working software	Heavy documentation required
 Team Collaboration	Cross-functional, daily stand-ups	More hierarchical, clear role definitions
