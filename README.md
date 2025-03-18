@@ -130,11 +130,13 @@ Flexibility:	Highly adaptable to changes // Difficult to accommodate changes onc
 
 Delivery:	Frequent releases in small increments // Delivered as a whole at the end.
 
-Testing:	Continuous (during each sprint) //	Performed after the development phase.
+Testing:	Continuous (during each sprint) // Performed after the development phase.
 
-Best Suited For	Dynamic projects with evolving requirements	Well-defined projects with fixed requirements
-Documentation	Lightweight, focuses on working software	Heavy documentation required
-Team Collaboration	Cross-functional, daily stand-ups	More hierarchical, clear role definitions
+Best Suited For:	Dynamic projects with evolving requirements // Well-defined projects with fixed requirements.
+
+Documentation:	Lightweight, focuses on working software //	Heavy documentation required.
+
+Team Collaboration:	Cross-functional, daily stand-ups	More hierarchical, clear role definitions
 
 **Advantages & Disadvantages of Each Methodology**
 
